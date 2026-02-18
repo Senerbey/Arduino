@@ -1,4 +1,5 @@
 //Generated Date: Sun, 14 Jan 2024 14:42:02 GMT
+// Board 2.06 da hata verdi.
 
 #include <BleKeyboard.h>
 BleKeyboard bleKeyboard;
